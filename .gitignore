@@ -2,6 +2,7 @@
 .vscode/
 *.iml
 
+.env
 config.json
 config.*.json
 !config.test.json
